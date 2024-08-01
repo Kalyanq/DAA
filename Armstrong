@@ -21,8 +21,8 @@ int is_armstrong(int num) {
 }
 int main() {
     int number;
-    printf("Name: P. Koteswara Rao\n");
-    printf("Regno: 192211581\n");
+    printf("Name: k.kalyan\n");
+    printf("Regno: 192211794\n");
     printf("Enter a number: ");
     scanf("%d", &number);
     if (is_armstrong(number)) {
